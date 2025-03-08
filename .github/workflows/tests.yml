@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - "master"
+      - "testrunner"
   pull_request:
     branches:
       - "master"
